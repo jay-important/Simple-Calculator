@@ -1,0 +1,8 @@
+# How to use
+Run the code, input a number and press enter, input a second number press enter, then choose what symbol you would like to use,
+(A)ddition, (S)ubtraction, (D)ivision, (M)ultiplication.
+
+# Variables
+total = num1 (symbol) num2
+num1 = first thing user is asked to input
+num2= 2nd thing user is asked to input.
